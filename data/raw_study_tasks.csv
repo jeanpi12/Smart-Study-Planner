@@ -1,0 +1,21 @@
+task_id,course_name,task_name,due_date,estimated_hours,priority,difficulty,study_hours_available,completed
+1,Data Structures,Read Chapter 5,2026-03-20,2,High,3,2,0
+2,Calculus,Homework 4,2026-03-19,3,High,4,2,0
+3,Operating Systems,Quiz Prep,2026-03-22,4,Medium,4,3,0
+4,Databases,Lab Submission,2026-03-18,2,High,3,2,1
+5,AI Fundamentals,Project Research,2026-03-25,5,Medium,5,2,0
+6,Networks,Flashcards Review,2026-03-21,1,Low,2,1,1
+7,Programming,Code Practice,2026-03-23,3,Medium,4,2,0
+8,Statistics,Practice Problems,2026-03-24,4,High,5,2,0
+9,Cybersecurity,Discussion Post,2026-03-18,1,Medium,2,1,0
+10,Web Development,UI Mockup,2026-03-26,3,Low,3,2,0
+11,Software Engineering,Design Notes,2026-03-21,2,Medium,3,2,0
+12,Discrete Math,Practice Set,2026-03-22,3,High,4,2,0
+13,Machine Learning,Model Review,2026-03-24,4,High,5,3,0
+14,Computer Networks,Lab Quiz Prep,2026-03-20,2,Medium,3,2,1
+15,Database Systems,ER Diagram,2026-03-23,3,Medium,4,2,0
+16,Programming II,Debugging Assignment,2026-03-19,4,High,5,2,0
+17,Cloud Computing,Reading Notes,2026-03-27,2,Low,2,1,0
+18,Operating Systems,Thread Synchronization Study,2026-03-21,3,High,4,2,0
+19,Cybersecurity,Lab Reflection,2026-03-25,2,Medium,3,2,0
+20,Statistics,Exam Review,2026-03-20,5,High,5,3,0
